@@ -64,7 +64,7 @@ if __name__ == "__main__":
                     print(f"{n1} >= {n2} : {resultado}")
 
                 case 0:
-                    print("¡Adiós!!!")
+                    print("0. Salir")
 
                 case _:
                     print("Opción no válida.")

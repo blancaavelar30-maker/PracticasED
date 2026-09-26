@@ -69,7 +69,7 @@ if __name__ == "__main__":
                     )
 
                 case 0:
-                    print("¡Adiós!!!")
+                    print("0. Salir")
 
                 case _:
                     print("Opción no válida.")

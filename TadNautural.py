@@ -64,7 +64,7 @@ if __name__ == "__main__":
                     print(f"La comparacion de {n1} y {n2} es {resultado}")
 
                 case 0:
-                    print("Adios!!!")
+                    print("0. Salir")
 
                 case _:  # Equivalente a default
                     print("Opcion no valida ")
